@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Bank Account</h2>
+
+<p id="info"></p>
+
+<script>
+const account = ["Name","Surname","Balance","Account Number"];
+document.getElementById("info").innerHTML = account; 
+</script>
+
+</body>
+</html>
+
